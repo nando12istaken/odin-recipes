@@ -1,0 +1,43 @@
+.homepage{
+    font-size: 25px;
+    background-color: #E5D9F2;
+    font-family: "Noto Sans", sans-serif;
+}
+.homepage h1{
+    background-color: #A294F9;
+    text-align: center;
+}
+a{
+    color:black;
+    font-size: 20px;
+}
+
+.BasilChickenFriedRice{
+    font-size: 25px;
+    background-color: #FFF1DB;
+    font-family: "Noto Sans", sans-serif;
+}
+.BasilChickenFriedRice h1{
+    background-color: #D4BDAC;
+    text-align: center;
+}
+
+.GarlicNaan{
+    font-size: 25px;
+    background-color: #FFF6E3;
+    font-family: "Noto Sans", sans-serif;
+}
+.GarlicNaan h1{
+    background-color: #EDDFE0;
+    text-align: center;
+}
+
+.ButterChicken{
+    font-size: 25px;
+    background-color: #DFF2EB;
+    font-family: "Noto Sans", sans-serif;
+}
+.ButterChicken h1{
+    background-color: #B9E5E8;
+    text-align: center;
+}
